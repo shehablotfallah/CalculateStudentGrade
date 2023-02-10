@@ -1,0 +1,15 @@
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\bin\Debug\net6.0\CalStudentGrade.exe
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\bin\Debug\net6.0\CalStudentGrade.deps.json
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\bin\Debug\net6.0\CalStudentGrade.runtimeconfig.json
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\bin\Debug\net6.0\CalStudentGrade.dll
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\bin\Debug\net6.0\CalStudentGrade.pdb
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.csproj.AssemblyReference.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.AssemblyInfoInputs.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.AssemblyInfo.cs
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.dll
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\refint\CalStudentGrade.dll
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.pdb
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\CalStudentGrade.genruntimeconfig.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\CalStudentGrade\CalStudentGrade\obj\Debug\net6.0\ref\CalStudentGrade.dll
